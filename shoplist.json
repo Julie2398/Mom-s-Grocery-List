@@ -1,0 +1,85 @@
+[
+    {
+        
+        "Serialno":"1",
+        "Name"    :"Basmati Rice",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Grains",
+        "Notes":"Royal White"
+    },
+    {
+    "Serialno":"2",
+        "Name"    :"Carrot",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Notes"     :"Fresh"
+    },
+    {
+    "Serialno":"3",
+        "Name"    :"Potato",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Notes":"Medium sized"
+    },
+    {
+    "Serialno":"4",
+        "Name"    :"Chilly Powder",
+        "Quantity":"250",
+        "Unit":"g",
+        "Department":"Spices",
+        "Notes"     :"Eastern Chilly powder"
+    },
+    {
+    "Serialno":"5",
+        "Name"    :"Turmeric Powder",
+        "Quantity":"350",
+        "Unit":"g",
+        "Department":"Spices",
+        "Notes":"Eastern turmeric Powder"
+    },
+    {
+    "Serialno":"6",
+        "Name"    :"Banana",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Fruits",
+        "Notes"     :"Fresh"
+    },
+    {
+        "Serialno":"7",
+        "Name"    :"Tomato",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Notes":"Fresh"
+    },
+    {
+    "Serialno":"8",
+        "Name"    :"Coconut oil",
+        "Quantity":"2",
+        "Unit":"litres",
+        "Department":"Oil",
+        "Notes"     :"Kera Coconut Oil"
+    },
+    {
+        "Serialno":"9",
+        "Name"    :"Ginger",
+        "Quantity":"1 1/2",
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Notes":"Fresh"
+    },
+    {
+    "Serialno":"10",
+        "Name"    :"Maida",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Grains",
+        "Notes"     :"Samrat Maida"
+    }
+    
+
+]
